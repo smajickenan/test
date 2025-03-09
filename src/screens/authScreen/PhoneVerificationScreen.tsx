@@ -156,8 +156,8 @@ const styles = StyleSheet.create({
   },
   navButton: {
     padding: 10,
-    flexDirection: "row", // This is the key change
-    alignItems: "center", // Vertically center icon and text
+    flexDirection: "row", 
+    alignItems: "center", 
     backgroundColor: "#F0F0F0",
     color: "#9ca3af",
     borderRadius: 25,

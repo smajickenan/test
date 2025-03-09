@@ -30,9 +30,9 @@ const styles = StyleSheet.create({
   },
   contentContainer: {
     flex: 1,
-    justifyContent: 'flex-start', // Changed from 'center'
+    justifyContent: 'flex-start', 
     paddingHorizontal: 20,
-    paddingTop: 100, // Added significant top padding to move content higher
+    paddingTop: 100,
   },
   checkCircle: {
     width: 100,

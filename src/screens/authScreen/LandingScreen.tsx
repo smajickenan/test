@@ -64,7 +64,7 @@ const styles = StyleSheet.create({
     backgroundColor: "white"
   },
   scrollContainer: {
-    flexGrow: 1, // Ovo omogućava da sadržaj bude skrolabilan
+    flexGrow: 1, 
   },
   image: {
     width: "100%",
